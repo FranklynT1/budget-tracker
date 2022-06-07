@@ -3,7 +3,6 @@ DEPLOYED URL:
 
 ## Table of Contents
 - [Installation](#Installation)
-- [Usage](#Usage)
 - [Demo](#Demo)
 
 # Installation 
